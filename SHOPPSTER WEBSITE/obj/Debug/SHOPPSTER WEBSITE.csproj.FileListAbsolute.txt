@@ -1,0 +1,69 @@
+c:\users\adarsh das k\documents\visual studio 2015\Projects\SHOPPSTER WEBSITE\SHOPPSTER WEBSITE\bin\roslyn\csc.exe
+c:\users\adarsh das k\documents\visual studio 2015\Projects\SHOPPSTER WEBSITE\SHOPPSTER WEBSITE\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+c:\users\adarsh das k\documents\visual studio 2015\Projects\SHOPPSTER WEBSITE\SHOPPSTER WEBSITE\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+c:\users\adarsh das k\documents\visual studio 2015\Projects\SHOPPSTER WEBSITE\SHOPPSTER WEBSITE\bin\roslyn\Microsoft.CodeAnalysis.dll
+c:\users\adarsh das k\documents\visual studio 2015\Projects\SHOPPSTER WEBSITE\SHOPPSTER WEBSITE\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+c:\users\adarsh das k\documents\visual studio 2015\Projects\SHOPPSTER WEBSITE\SHOPPSTER WEBSITE\bin\roslyn\Microsoft.CSharp.Core.targets
+c:\users\adarsh das k\documents\visual studio 2015\Projects\SHOPPSTER WEBSITE\SHOPPSTER WEBSITE\bin\roslyn\Microsoft.VisualBasic.Core.targets
+c:\users\adarsh das k\documents\visual studio 2015\Projects\SHOPPSTER WEBSITE\SHOPPSTER WEBSITE\bin\roslyn\System.Collections.Immutable.dll
+c:\users\adarsh das k\documents\visual studio 2015\Projects\SHOPPSTER WEBSITE\SHOPPSTER WEBSITE\bin\roslyn\System.Reflection.Metadata.dll
+c:\users\adarsh das k\documents\visual studio 2015\Projects\SHOPPSTER WEBSITE\SHOPPSTER WEBSITE\bin\roslyn\vbc.exe
+c:\users\adarsh das k\documents\visual studio 2015\Projects\SHOPPSTER WEBSITE\SHOPPSTER WEBSITE\bin\roslyn\VBCSCompiler.exe
+c:\users\adarsh das k\documents\visual studio 2015\Projects\SHOPPSTER WEBSITE\SHOPPSTER WEBSITE\bin\roslyn\VBCSCompiler.exe.config
+c:\users\adarsh das k\documents\visual studio 2015\Projects\SHOPPSTER WEBSITE\SHOPPSTER WEBSITE\bin\SHOPPSTER WEBSITE.dll.config
+c:\users\adarsh das k\documents\visual studio 2015\Projects\SHOPPSTER WEBSITE\SHOPPSTER WEBSITE\bin\SHOPPSTER WEBSITE.dll
+c:\users\adarsh das k\documents\visual studio 2015\Projects\SHOPPSTER WEBSITE\SHOPPSTER WEBSITE\bin\SHOPPSTER WEBSITE.pdb
+c:\users\adarsh das k\documents\visual studio 2015\Projects\SHOPPSTER WEBSITE\SHOPPSTER WEBSITE\bin\Antlr3.Runtime.dll
+c:\users\adarsh das k\documents\visual studio 2015\Projects\SHOPPSTER WEBSITE\SHOPPSTER WEBSITE\bin\EntityFramework.dll
+c:\users\adarsh das k\documents\visual studio 2015\Projects\SHOPPSTER WEBSITE\SHOPPSTER WEBSITE\bin\EntityFramework.SqlServer.dll
+c:\users\adarsh das k\documents\visual studio 2015\Projects\SHOPPSTER WEBSITE\SHOPPSTER WEBSITE\bin\Microsoft.AspNet.Identity.Core.dll
+c:\users\adarsh das k\documents\visual studio 2015\Projects\SHOPPSTER WEBSITE\SHOPPSTER WEBSITE\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+c:\users\adarsh das k\documents\visual studio 2015\Projects\SHOPPSTER WEBSITE\SHOPPSTER WEBSITE\bin\Microsoft.AspNet.Identity.Owin.dll
+c:\users\adarsh das k\documents\visual studio 2015\Projects\SHOPPSTER WEBSITE\SHOPPSTER WEBSITE\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+c:\users\adarsh das k\documents\visual studio 2015\Projects\SHOPPSTER WEBSITE\SHOPPSTER WEBSITE\bin\Microsoft.Owin.dll
+c:\users\adarsh das k\documents\visual studio 2015\Projects\SHOPPSTER WEBSITE\SHOPPSTER WEBSITE\bin\Microsoft.Owin.Host.SystemWeb.dll
+c:\users\adarsh das k\documents\visual studio 2015\Projects\SHOPPSTER WEBSITE\SHOPPSTER WEBSITE\bin\Microsoft.Owin.Security.Cookies.dll
+c:\users\adarsh das k\documents\visual studio 2015\Projects\SHOPPSTER WEBSITE\SHOPPSTER WEBSITE\bin\Microsoft.Owin.Security.dll
+c:\users\adarsh das k\documents\visual studio 2015\Projects\SHOPPSTER WEBSITE\SHOPPSTER WEBSITE\bin\Microsoft.Owin.Security.Facebook.dll
+c:\users\adarsh das k\documents\visual studio 2015\Projects\SHOPPSTER WEBSITE\SHOPPSTER WEBSITE\bin\Microsoft.Owin.Security.Google.dll
+c:\users\adarsh das k\documents\visual studio 2015\Projects\SHOPPSTER WEBSITE\SHOPPSTER WEBSITE\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+c:\users\adarsh das k\documents\visual studio 2015\Projects\SHOPPSTER WEBSITE\SHOPPSTER WEBSITE\bin\Microsoft.Owin.Security.OAuth.dll
+c:\users\adarsh das k\documents\visual studio 2015\Projects\SHOPPSTER WEBSITE\SHOPPSTER WEBSITE\bin\Microsoft.Owin.Security.Twitter.dll
+c:\users\adarsh das k\documents\visual studio 2015\Projects\SHOPPSTER WEBSITE\SHOPPSTER WEBSITE\bin\Microsoft.Web.Infrastructure.dll
+c:\users\adarsh das k\documents\visual studio 2015\Projects\SHOPPSTER WEBSITE\SHOPPSTER WEBSITE\bin\Newtonsoft.Json.dll
+c:\users\adarsh das k\documents\visual studio 2015\Projects\SHOPPSTER WEBSITE\SHOPPSTER WEBSITE\bin\Owin.dll
+c:\users\adarsh das k\documents\visual studio 2015\Projects\SHOPPSTER WEBSITE\SHOPPSTER WEBSITE\bin\System.Web.Helpers.dll
+c:\users\adarsh das k\documents\visual studio 2015\Projects\SHOPPSTER WEBSITE\SHOPPSTER WEBSITE\bin\System.Web.Mvc.dll
+c:\users\adarsh das k\documents\visual studio 2015\Projects\SHOPPSTER WEBSITE\SHOPPSTER WEBSITE\bin\System.Web.Optimization.dll
+c:\users\adarsh das k\documents\visual studio 2015\Projects\SHOPPSTER WEBSITE\SHOPPSTER WEBSITE\bin\System.Web.Razor.dll
+c:\users\adarsh das k\documents\visual studio 2015\Projects\SHOPPSTER WEBSITE\SHOPPSTER WEBSITE\bin\System.Web.WebPages.Deployment.dll
+c:\users\adarsh das k\documents\visual studio 2015\Projects\SHOPPSTER WEBSITE\SHOPPSTER WEBSITE\bin\System.Web.WebPages.dll
+c:\users\adarsh das k\documents\visual studio 2015\Projects\SHOPPSTER WEBSITE\SHOPPSTER WEBSITE\bin\System.Web.WebPages.Razor.dll
+c:\users\adarsh das k\documents\visual studio 2015\Projects\SHOPPSTER WEBSITE\SHOPPSTER WEBSITE\bin\WebGrease.dll
+c:\users\adarsh das k\documents\visual studio 2015\Projects\SHOPPSTER WEBSITE\SHOPPSTER WEBSITE\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+c:\users\adarsh das k\documents\visual studio 2015\Projects\SHOPPSTER WEBSITE\SHOPPSTER WEBSITE\bin\System.Web.Helpers.xml
+c:\users\adarsh das k\documents\visual studio 2015\Projects\SHOPPSTER WEBSITE\SHOPPSTER WEBSITE\bin\System.Web.Mvc.xml
+c:\users\adarsh das k\documents\visual studio 2015\Projects\SHOPPSTER WEBSITE\SHOPPSTER WEBSITE\bin\System.Web.Optimization.xml
+c:\users\adarsh das k\documents\visual studio 2015\Projects\SHOPPSTER WEBSITE\SHOPPSTER WEBSITE\bin\System.Web.Razor.xml
+c:\users\adarsh das k\documents\visual studio 2015\Projects\SHOPPSTER WEBSITE\SHOPPSTER WEBSITE\bin\System.Web.WebPages.xml
+c:\users\adarsh das k\documents\visual studio 2015\Projects\SHOPPSTER WEBSITE\SHOPPSTER WEBSITE\bin\System.Web.WebPages.Deployment.xml
+c:\users\adarsh das k\documents\visual studio 2015\Projects\SHOPPSTER WEBSITE\SHOPPSTER WEBSITE\bin\System.Web.WebPages.Razor.xml
+c:\users\adarsh das k\documents\visual studio 2015\Projects\SHOPPSTER WEBSITE\SHOPPSTER WEBSITE\bin\Antlr3.Runtime.pdb
+c:\users\adarsh das k\documents\visual studio 2015\Projects\SHOPPSTER WEBSITE\SHOPPSTER WEBSITE\bin\Newtonsoft.Json.xml
+c:\users\adarsh das k\documents\visual studio 2015\Projects\SHOPPSTER WEBSITE\SHOPPSTER WEBSITE\bin\EntityFramework.xml
+c:\users\adarsh das k\documents\visual studio 2015\Projects\SHOPPSTER WEBSITE\SHOPPSTER WEBSITE\bin\EntityFramework.SqlServer.xml
+c:\users\adarsh das k\documents\visual studio 2015\Projects\SHOPPSTER WEBSITE\SHOPPSTER WEBSITE\bin\Microsoft.AspNet.Identity.Core.xml
+c:\users\adarsh das k\documents\visual studio 2015\Projects\SHOPPSTER WEBSITE\SHOPPSTER WEBSITE\bin\Microsoft.AspNet.Identity.Owin.xml
+c:\users\adarsh das k\documents\visual studio 2015\Projects\SHOPPSTER WEBSITE\SHOPPSTER WEBSITE\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+c:\users\adarsh das k\documents\visual studio 2015\Projects\SHOPPSTER WEBSITE\SHOPPSTER WEBSITE\bin\Microsoft.Owin.xml
+c:\users\adarsh das k\documents\visual studio 2015\Projects\SHOPPSTER WEBSITE\SHOPPSTER WEBSITE\bin\Microsoft.Owin.Host.SystemWeb.xml
+c:\users\adarsh das k\documents\visual studio 2015\Projects\SHOPPSTER WEBSITE\SHOPPSTER WEBSITE\bin\Microsoft.Owin.Security.xml
+c:\users\adarsh das k\documents\visual studio 2015\Projects\SHOPPSTER WEBSITE\SHOPPSTER WEBSITE\bin\Microsoft.Owin.Security.Facebook.xml
+c:\users\adarsh das k\documents\visual studio 2015\Projects\SHOPPSTER WEBSITE\SHOPPSTER WEBSITE\bin\Microsoft.Owin.Security.Cookies.xml
+c:\users\adarsh das k\documents\visual studio 2015\Projects\SHOPPSTER WEBSITE\SHOPPSTER WEBSITE\bin\Microsoft.Owin.Security.OAuth.xml
+c:\users\adarsh das k\documents\visual studio 2015\Projects\SHOPPSTER WEBSITE\SHOPPSTER WEBSITE\bin\Microsoft.Owin.Security.Google.xml
+c:\users\adarsh das k\documents\visual studio 2015\Projects\SHOPPSTER WEBSITE\SHOPPSTER WEBSITE\bin\Microsoft.Owin.Security.Twitter.xml
+c:\users\adarsh das k\documents\visual studio 2015\Projects\SHOPPSTER WEBSITE\SHOPPSTER WEBSITE\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+c:\users\adarsh das k\documents\visual studio 2015\Projects\SHOPPSTER WEBSITE\SHOPPSTER WEBSITE\obj\Debug\SHOPPSTER WEBSITE.csprojResolveAssemblyReference.cache
+c:\users\adarsh das k\documents\visual studio 2015\Projects\SHOPPSTER WEBSITE\SHOPPSTER WEBSITE\obj\Debug\SHOPPSTER WEBSITE.dll
+c:\users\adarsh das k\documents\visual studio 2015\Projects\SHOPPSTER WEBSITE\SHOPPSTER WEBSITE\obj\Debug\SHOPPSTER WEBSITE.pdb

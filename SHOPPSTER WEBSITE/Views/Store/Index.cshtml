@@ -1,0 +1,28 @@
+﻿@model  IEnumerable<SHOPPSTER_WEBSITE.Models.Category>
+
+@{
+    ViewBag.Title = "Store";
+}
+
+<h1>WELCOME TO ONLINE SUPPLYCO</h1>
+<p>
+    You can purchase and pay here if you are tired of waiting in queue in supplico
+
+
+
+</p>
+<h2>Browse Category</h2>
+<p>
+
+    Select from @Model.Count()
+    genres:
+
+</p>
+<ul>
+    @foreach (var category in Model) 
+    {
+        <li>@Html.ActionLink(category.Name,"Browse",new { category = category.Name })</li>
+    }
+
+</ul>
+
